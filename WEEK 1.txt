@@ -1,7 +1,9 @@
+     PRACTICE SESSION 1
+
 Objective
 
 
-This is a simple challenge to help you practice printing to stdout.
+1. This is a simple challenge to help you practice printing to stdout.
 
  
 
@@ -37,12 +39,9 @@ return 0;
 Expected	Got	
 Hello, World!   Hello, World!
 
-
-Objective
-
  
 
-This challenge will help you to learn how to take a character, a string and a sentence as input in C.
+2. This challenge will help you to learn how to take a character, a string and a sentence as input in C.
 
  
 
@@ -104,7 +103,7 @@ Objective
 
  
 
-The fundamental data types in c are int, float and char. Today, we're discussing int and float data types.
+3. The fundamental data types in c are int, float and char. Today, we're discussing int and float data types.
 
  
 
@@ -217,18 +216,6 @@ int main() {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Feedback
 Input	Expected	Got	
 10 4
@@ -245,7 +232,9 @@ Input	Expected	Got
 12.0 4.0
 Passed all tests! 
 
-Write a program to input a name (as a single character) and marks of three tests as m1, m2, and m3 of a student considering all the three marks have been given in integer format.
+       PRACTICE SESSION 2
+
+1. Write a program to input a name (as a single character) and marks of three tests as m1, m2, and m3 of a student considering all the three marks have been given in integer format.
 
 
 
@@ -359,7 +348,7 @@ R
 R
 66
 
-Some C data types, their format specifiers, and their most common bit widths are as follows:
+2. Some C data types, their format specifiers, and their most common bit widths are as follows:
 
 ·         Int ("%d"): 32 Bit integer
 
@@ -465,7 +454,7 @@ a
 14049.304930000
 Passed all tests!  
 
-Write a program to print the ASCII value and the two adjacent characters of the given character.
+3. Write a program to print the ASCII value and the two adjacent characters of the given character.
 
  
 
